@@ -3,6 +3,7 @@ This Repository contains the .pbix file of the Dashboard created using Adventure
 
 This dashboard is prepared using the Adventure works Dataset which contains the following tables:
     <ul>
+    
     <li> 1. Adventure Works Calendar lookup </li>  
     <li> 2. Adventure Works Customer Lookup </li>
     <li> 3. Adventure Works Product Categories Lookup </li>
@@ -13,7 +14,12 @@ This dashboard is prepared using the Adventure works Dataset which contains the 
     <li> 8. Adventure Works Sales Data 2021 </li>
     <li> 9. Adventure Works Sales Data 2022 </li>
     <li> 10. Adventure Works Territory Lookup </li>
+    
     </ul>
+
+Here is a snippet of the Adventure Works Product Lookup Table
+
+![image](https://github.com/Siegewardcatarina/Adventure-Works-Dashboard/assets/91260329/fd5e689c-77d9-4c92-8dbb-0f8d41b9c43c)
 
 The dashboard is responsive filters and has features such as Drillthrough, Sliders, Slicers, Cards and KPIs
 The Measures used in the dashboard are stored in a separate measures table for ease of access.
